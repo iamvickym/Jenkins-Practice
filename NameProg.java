@@ -6,6 +6,7 @@ public class NameProg {
 		System.out.println("Hi Pooja");
 		System.out.println("Hi Vicky");
 		System.out.println("Hi Sam");
+		System.out.println("Hi Praveen");
 	}
 
 }
